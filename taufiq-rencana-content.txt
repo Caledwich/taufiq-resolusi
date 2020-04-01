@@ -3,6 +3,7 @@ RENCANA KONTEN TAUFIQ
 - Javascript
   > ES6
   > Framework javascript
+- Struktur Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
